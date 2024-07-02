@@ -1,21 +1,9 @@
-
-
-![Logo](https://i.ibb.co/RpR09zc/1643226607054.png)
-
-
 ## ᴀɴ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴛᴏᴏʟ ғᴏʀ ʀᴇᴘᴏʀᴛɪɴɢ ɪɴsᴛᴀɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛs
 
 
 
 
-![MIT License](https://img.shields.io/github/license/cyberkallan/IG-blaster)
-![GPLv3 License](https://img.shields.io/github/languages/count/cyberkallan/IG-blaster)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
 ## Documentation
-
-[Education purpose only](https://Hackaro.com)
 
 IF you want to shutdown somone instagram account remotely. This tool will help you.
 
@@ -47,9 +35,3 @@ python3 -m pip install requests
 
 > Run : python3 igblast.py
 ```
-    
-## Acknowledgements
-
- - [Join the community](https://hackaro.com)
- - [more tools](https://denotech.in)
- - [github](https://GitHub.com/cyberkallan)
